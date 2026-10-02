@@ -1,0 +1,15 @@
+.venv/
+data/*.mat
+data/*.zip
+data/processed/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# 교수님 원본 노트북 (무단 배포 금지)
+30-ESSHealth-scratch.ipynb
+
+# 제출하지 않은 보고서 시안 (로컬 보관)
+reports/*_concise*
+reports/*_E4*
+reports/*.html
